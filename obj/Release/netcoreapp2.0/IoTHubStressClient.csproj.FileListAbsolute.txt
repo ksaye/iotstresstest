@@ -1,0 +1,11 @@
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient\bin\Release\netcoreapp2.0\IoTHubStressClient.deps.json
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient\bin\Release\netcoreapp2.0\IoTHubStressClient.runtimeconfig.json
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient\bin\Release\netcoreapp2.0\IoTHubStressClient.runtimeconfig.dev.json
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient\bin\Release\netcoreapp2.0\IoTHubStressClient.dll
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient\bin\Release\netcoreapp2.0\IoTHubStressClient.pdb
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient\obj\Release\netcoreapp2.0\IoTHubStressClient.csprojResolveAssemblyReference.cache
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient\obj\Release\netcoreapp2.0\IoTHubStressClient.csproj.CoreCompileInputs.cache
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient\obj\Release\netcoreapp2.0\IoTHubStressClient.AssemblyInfoInputs.cache
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient\obj\Release\netcoreapp2.0\IoTHubStressClient.AssemblyInfo.cs
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient\obj\Release\netcoreapp2.0\IoTHubStressClient.dll
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient\obj\Release\netcoreapp2.0\IoTHubStressClient.pdb

@@ -1,0 +1,5 @@
+C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=IoTHubStressClient
+--content-root=C:\Users\kevinsay\source\repos\ConsoleApp1\IoTHubStressClient
+--file=
